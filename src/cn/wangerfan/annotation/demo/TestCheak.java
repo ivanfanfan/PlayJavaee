@@ -3,8 +3,7 @@ package cn.wangerfan.annotation.demo;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.lang.annotation.Annotation;
-import java.lang.reflect.InvocationTargetException;
+
 import java.lang.reflect.Method;
 
 public class TestCheak {
